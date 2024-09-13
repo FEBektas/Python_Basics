@@ -4,8 +4,8 @@ This project contains a collection of concepts, examples and exercises based on 
 
 ## Key Features ##
 
--**Diverse Beginner Concepts and Exercises:**Covering fundamental concepts such as: Data types, Data manipulation, Loops, and variable handling. 
--**Flexibility and Adaptability:**Tailor the challenge to get a better grasp of the fundamental syntax of Python.
+-**Diverse Beginner Concepts and Exercises:** Covering fundamental concepts such as: Data types, Data manipulation, Loops, and variable handling. 
+-**Flexibility and Adaptability:** Tailor the challenge to get a better grasp of the fundamental syntax of Python.
 
 ## Project Structure: ##
 
