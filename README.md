@@ -1,4 +1,4 @@
-**Python Basics and Beginner Projects**
+# Python Basics and Beginner Projects #
 
 This project contains a collection of concepts, examples and exercises based on Python beginner tutorials.
 
