@@ -11,7 +11,7 @@ This project contains a collection of concepts, examples and exercises based on 
 ## Project Structure: ##
 
 - subject_specific.py files. These contain a title specific to the Python concepts contained.
-- subject_specific.py folder. These contain the elements specified in the folder name.
+- subject_specific folder. These contain the elements specified in the folder name.
 
 
 ## Requirements: ##
