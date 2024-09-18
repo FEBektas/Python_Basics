@@ -27,6 +27,11 @@ odd_even.py - contains an Odd or Even calculator.
 - Choices a random amount of characters from predefined lists containing: lower case letters, upper case letters, numbers and special characters.
 - At the end, the picked characters are shuffled, randomly printing the final form of the password.
 
+**18/09/2024 → Calculator** - Contains the script used for calculating basics math operations.
+- Based on user selecting operations and applies operations to random input numbers.
+- Operations defined as funtions that can be passed in multiple scenarios inside the script.
+
+
 ## Contributing: ##
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
 
