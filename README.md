@@ -31,6 +31,9 @@ odd_even.py - contains an Odd or Even calculator.
 - Based on user selecting operations and applies operations to random input numbers.
 - Operations defined as funtions that can be passed in multiple scenarios inside the script.
 
+**20/09/2024 → Letter Count** - Contains the script used for calculating how many vowels are in a string.
+- Based on an user quote, the loop will break the string, show how many characters are, how many vowels and the percentage of the vowels inside the script.
+
 
 ## Contributing: ##
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
