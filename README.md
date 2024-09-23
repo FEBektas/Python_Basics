@@ -34,6 +34,9 @@ odd_even.py - contains an Odd or Even calculator.
 **20/09/2024 → Letter Count** - Contains the script used for calculating how many vowels are in a string.
 - Based on an user quote, the loop will break the string, show how many characters are, how many vowels and the percentage of the vowels inside the script.
 
+**23/09/2024 → Basic Unit Convertor** - Contains the script used for converting Metric units into Imperial units.
+- Based on defined math operations, converts the user input to diffrent measurment units based on the specified selection.
+- Leverage the usage of functions to provide a continuous loop for the script.
 
 ## Contributing: ##
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
