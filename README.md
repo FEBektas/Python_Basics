@@ -38,6 +38,11 @@ odd_even.py - contains an Odd or Even calculator.
 - Based on defined math operations, converts the user input to diffrent measurment units based on the specified selection.
 - Leverage the usage of functions to provide a continuous loop for the script.
 
+**24/09/2024 → FizzBuzz** - Contains a script to solve the FizzBuzz coding problem.
+- FizzBuzz logic applied to a range of numbers with the upper limit dynamically obtained from the user input.
+- Includes logic to calculate percentages of occurance for each condition.
+- Integrates the use of time module to simulate real life respons.
+
 ## Contributing: ##
 Contributions are welcome! Feel free to contribute to the 100 Days of Code Challenge project.
 
