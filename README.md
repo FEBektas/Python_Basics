@@ -21,6 +21,7 @@ Please refer to the first few lines of the scripts for any additional required p
 ## Change Log ##
 
 00_basics.py - contains several basic syntax usages and breakdowns.
+
 odd_even.py - contains an Odd or Even calculator.
 
 **13/09/2024 → Password Generator v1.0** - Contains the script used for generating complex passwords.
